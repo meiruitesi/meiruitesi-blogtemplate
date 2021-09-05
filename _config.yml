@@ -59,11 +59,11 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 3dc7066332b6ba869e51                            #生成的clientID
-  clientSecret: 2be1929646355f2f2134832b91d885df3e927b57    #生成的clientSecret
+  clientID: 102e85a6c7635eea07a5                            #生成的clientID
+  clientSecret: c373cfe716bd217e875ac8839defe144ddbee5c0    #生成的clientSecret
   repo: xuexiaoai-meiruitesi    #仓库名称
   owner: meiruitesi    #github用户名
-  admin: ['meiruitesi', 'xuexiaoai']
+  admin: ['meiruitesi']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
